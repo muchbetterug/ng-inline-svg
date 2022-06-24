@@ -38,16 +38,16 @@
     "prepare": "npm run build"
   },
   "peerDependencies": {
-    "@angular/core": "^13.0.0",
-    "@angular/common": "^13.0.0",
+    "@angular/core": "^14.0.3",
+    "@angular/common": "^14.0.3",
     "rxjs": "^6.6.0 || ^7.4.0"
   },
   "devDependencies": {
-    "@angular/common": "^13.0.0",
-    "@angular/compiler": "^13.0.0",
-    "@angular/compiler-cli": "^13.0.0",
-    "@angular/core": "^13.0.0",
-    "@angular/platform-browser": "^13.0.0",
+    "@angular/common": "^14.0.3",
+    "@angular/compiler": "^14.0.3",
+    "@angular/compiler-cli": "^14.0.3",
+    "@angular/core": "^14.0.3",
+    "@angular/platform-browser": "^14.0.3",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.3",
     "tslint": "^6.1.3",
